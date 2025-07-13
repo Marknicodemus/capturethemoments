@@ -499,7 +499,7 @@ ol {
 .main-menu {
 	list-style: none;
 	float: right;
-	display: none;
+	display: block;
 }
 
 .main-menu li {
